@@ -13,6 +13,14 @@ h1 {
     color: darkblue;
 }
 
+main img {
+    width: 200;
+    height: auto;
+    border: 1px solid black;
+    padding: 0;
+    box-shadow: 0 0 30px;
+}
+
 img {
     width: 150px;
     height: auto;
@@ -22,7 +30,7 @@ img {
 }
 
 p {
-    padding: 10px;
+    padding: 0;
 }
 
 main {
